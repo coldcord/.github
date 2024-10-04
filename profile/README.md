@@ -1,6 +1,9 @@
 # Coldcord
 
-coldcord is an organization to post userplugins for vencord
+Coldcord is an organization to post userplugins for vencord.
+
+Vencord avatar inspired the Coldcord avatar design
+Credit to Royyan Wijaya for the ice cube icon desgin
 
 > > # ⚠️ Installing anything from here is not officially supported.
 > >
@@ -18,19 +21,15 @@ coldcord is an organization to post userplugins for vencord
 > 1. Direct your terminal to the `userplugins` folder, e.g. `cd src/userplugins`. If you're confused, read the guide above
 > 2. Each plugin post will contain a GitHub repo link, like `https://github.com/PluginAuthor/CoolPlugin`. Copy it
 > 3. Inside your terminal, run
-
 ```sh
 git clone https://github.com/...
 ```
-
 > ## How to update plugins
 >
 > You will have to make sure to keep up with the latest changes to fix issues and get new features. You can update a plugin by directing your terminal to its folder (`cd src/userplugins/coolPlugin`) and running:
-
 ```sh
 git pull
 ```
-
 > ## How to post your own plugin
 >
 > Check the post guidelines in this forum
