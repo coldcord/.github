@@ -3,6 +3,7 @@
 Coldcord is an organization to post userplugins for vencord.
 
 Vencord avatar inspired the Coldcord avatar design
+
 Credit to Royyan Wijaya for the ice cube icon desgin
 
 > > # ⚠️ Installing anything from here is not officially supported.
