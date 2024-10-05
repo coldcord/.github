@@ -35,6 +35,3 @@ You will have to make sure to keep up with the latest changes to fix issues and 
 git pull
 ```
 
-## How to post your own plugin
-
-Check the post guidelines in this forum
